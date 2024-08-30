@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud computing and network engineering
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any web development projects
-- 📫 How to reach me: instagra @annemugs
+- 📫 How to reach me: instagram @annemugs
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...when i'm not coding, you can find me mastering new choreography.
 
